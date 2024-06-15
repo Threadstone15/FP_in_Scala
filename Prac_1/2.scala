@@ -1,4 +1,4 @@
-object Main{
+object Main_2{
     def C_Far(C: Double): Double = {
         C * 1.8000 + 32.00
     }

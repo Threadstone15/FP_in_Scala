@@ -1,4 +1,4 @@
-object Main {
+object Main_1 {
     def Area_Disk(r: Double): Double = {
         math.Pi * r * r
     }
