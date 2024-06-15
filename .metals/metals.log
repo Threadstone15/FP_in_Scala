@@ -1,0 +1,256 @@
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@b147444]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@6fe49165]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@b147444]
+2024.06.15 13:27:19 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.06.15 13:27:21 INFO  no build target found for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.15 13:27:23 INFO  Running List(C:\Users\ASUS\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala)
+2024.06.15 13:27:24 INFO  no build target found for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.15 13:27:24 WARN  Could not find semantic tokens for: file:///D:/UDEEPA/UCSC/2nd%20year/1st%20sem/SCS2204%20Functional%20Programming/practical/1/FP_in_Scala/Prac_1/1.scala
+2024.06.15 13:27:24 INFO  Attempting to connect to the build server...
+2024.06.15 13:27:24 INFO  Running BSP server List(C:\Users\ASUS\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\.scala-build\ide-options-v2.json, --json-launcher-options, D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\.scala-build\ide-launcher-options.json, --envs-file, D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\.scala-build\ide-envs.json, D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala)
+2024.06.15 13:27:23 INFO  no build target found for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.15 13:27:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\.metals\bsp.trace.json or C:\Users\ASUS\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.15 13:27:27 WARN  Could not find semantic tokens for: file:///D:/UDEEPA/UCSC/2nd%20year/1st%20sem/SCS2204%20Functional%20Programming/practical/1/FP_in_Scala/Prac_1/1.scala
+2024.06.15 13:27:29 INFO  no build target found for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.15 13:27:29 INFO  no build target found for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.15 13:27:29 INFO  no build target found for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.15 13:27:29 INFO  no build target found for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.15 13:27:30 INFO  time: Connected to build server in 5.93s
+2024.06.15 13:27:30 INFO  Connected to Build server: scala-cli v1.3.2
+2024.06.15 13:27:30 INFO  time: Imported build in 0.12s
+2024.06.15 13:27:31 INFO  compiling fp_in_scala_f4dd477a3a (1 scala source)
+2024.06.15 13:27:32 INFO  time: compiled FP_in_Scala_f4dd477a3a in 1.05s
+Jun 15, 2024 1:27:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 58
+2024.06.15 13:27:36 INFO  time: indexed workspace in 5.86s
+Jun 15, 2024 1:27:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 193
+Jun 15, 2024 1:28:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 223
+Jun 15, 2024 1:28:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 382
+Jun 15, 2024 1:29:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 446
+2024.06.15 13:31:59 INFO  compiling fp_in_scala_f4dd477a3a (1 scala source)
+2024.06.15 13:32:00 INFO  time: compiled FP_in_Scala_f4dd477a3a in 1.45s
+2024.06.15 13:33:07 INFO  compiling fp_in_scala_f4dd477a3a (1 scala source)
+2024.06.15 13:33:07 INFO  time: compiled FP_in_Scala_f4dd477a3a in 0.78s
+2024.06.15 13:33:07 INFO  compiling fp_in_scala_f4dd477a3a (1 scala source)
+2024.06.15 13:33:08 INFO  time: compiled FP_in_Scala_f4dd477a3a in 0.37s
+2024.06.15 13:33:11 INFO  Cancelling compilation on scala-cli server
+2024.06.15 13:33:11 WARN  Invalid text document uri received from build server: file:///D:/UDEEPA/UCSC/2nd%20year/1st%20sem/SCS2204%20Functional%20Programming/practical/1/FP_in_Scala/Prac_1/tempCodeRunnerFile.scala
+2024.06.15 13:33:11 INFO  time: Imported build in 0.1s
+2024.06.15 13:33:11 WARN  Invalid text document uri received from build server: file:///D:/UDEEPA/UCSC/2nd%20year/1st%20sem/SCS2204%20Functional%20Programming/practical/1/FP_in_Scala/Prac_1/tempCodeRunnerFile.scala
+2024.06.15 13:33:15 INFO  time: indexed workspace in 7.67s
+2024.06.15 13:33:17 INFO  time: indexed workspace in 5.56s
+2024.06.15 13:33:50 ERROR Failed to tokenize input for semantic tokens for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+scala.meta.tokenizers.TokenizeException: <input>:7: error: unclosed string literal
+println("$area)
+        ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:560)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:379)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:383)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:514)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2024.06.15 13:35:11 INFO  compiling fp_in_scala_f4dd477a3a (1 scala source)
+2024.06.15 13:35:11 INFO  time: compiled FP_in_Scala_f4dd477a3a in 0.26s
+2024.06.15 13:35:11 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:35:12 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:35:12 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:35:14 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:35:25 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:35:30 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:36:24 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:36:25 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:36:25 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:36:29 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:37:06 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:37:39 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:37:44 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:41:29 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:41:30 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:41:30 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:41:30 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:41:30 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:41:30 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:41:30 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:41:34 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:41:54 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:41:55 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:41:56 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:41:56 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:41:56 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:41:59 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:41:59 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:01 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:08 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:09 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:10 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+Jun 15, 2024 1:42:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\.metals\.reports\metals-full\2024-06-15\r_compiler-error_(FP_in_Scala_f4dd477a3a)_13-42-12-033.md
+2024.06.15 13:42:12 WARN  Could not find semantic tokens for: file:///D:/UDEEPA/UCSC/2nd%20year/1st%20sem/SCS2204%20Functional%20Programming/practical/1/FP_in_Scala/Prac_1/1.scala
+2024.06.15 13:42:12 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:13 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:14 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:14 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:15 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:17 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:20 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:23 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:25 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+Jun 15, 2024 1:42:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 839
+2024.06.15 13:42:25 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+Jun 15, 2024 1:42:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 844
+2024.06.15 13:42:28 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:31 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:33 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:34 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:34 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:38 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:38 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:39 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:40 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:42 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:43 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:44 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:45 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:46 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:47 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:47 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:47 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:49 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:50 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:50 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:50 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:52 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:52 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:53 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:54 ERROR Failed to tokenize input for semantic tokens for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+scala.meta.tokenizers.TokenizeException: <input>:9: error: Invalid literal number, followed by identifier character
+<<<<<<<  b7640938-cf61-4d14-9173-c2893b7e2fe4  >>>>>>>
+                         ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:834)
+	at scala.meta.internal.tokenizers.LegacyScanner.setFractionDone(LegacyScanner.scala:828)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:342)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:514)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+Jun 15, 2024 1:42:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 878
+2024.06.15 13:42:54 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:54 ERROR Failed to tokenize input for semantic tokens for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+scala.meta.tokenizers.TokenizeException: <input>:10: error: Invalid literal number, followed by identifier character
+<<<<<<<  b7640938-cf61-4d14-9173-c2893b7e2fe4  >>>>>>>
+                         ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:834)
+	at scala.meta.internal.tokenizers.LegacyScanner.setFractionDone(LegacyScanner.scala:828)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:342)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:514)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2024.06.15 13:42:55 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:58 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:58 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:42:59 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:43:03 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:43:04 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:43:06 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:43:07 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:43:07 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:43:09 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:43:11 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:43:12 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:43:13 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:43:15 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:43:20 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:47:33 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:47:38 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:49:55 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:49:56 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:49:56 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:49:58 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:49:59 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:50:00 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:50:01 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:50:01 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:50:02 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:50:03 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:50:04 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:50:07 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:50:07 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:50:17 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:50:17 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:50:17 WARN  Could not load snapshot text for D:\UDEEPA\UCSC\2nd year\1st sem\SCS2204 Functional Programming\practical\1\FP_in_Scala\Prac_1\1.scala
+2024.06.15 13:50:17 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.06.15 13:50:18 INFO  no build target found for /scala/Predef.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.15 13:50:19 INFO  compiling fp_in_scala_f4dd477a3a (1 scala source)
+2024.06.15 13:50:21 INFO  time: compiled FP_in_Scala_f4dd477a3a in 1.73s
+Jun 15, 2024 1:50:24 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\ASUS\AppData\Local\Temp\fallback-service11094168172446434921\.metals\.reports\metals-full\2024-06-15\r_compiler-error_13-50-24-172.md
