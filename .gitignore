@@ -1,4 +1,5 @@
-.bps
-.metals
-.scala-build
-.vscode
+.bps/
+.metals/
+.scala-build/
+.vscode/
+*.json
