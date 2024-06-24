@@ -15,6 +15,6 @@ object movie_hall{
 
     def main (args: Array[String]): Unit = {
 
-        println(s"Profit is : ${profit(25)}")
+        println(s"Profit is : ${profit(20)}")
     }
 }
