@@ -9,11 +9,16 @@ object fun_elv{
         var d = 5
         var k = 4.3f
 
-        println( - -b * a + c * d - -)
-        println(a++)
-        println (–2 * ( g – k ) +c)
-        println (c=c++)
-        println (c=++c*a++)
+        //println( - -b * a + c * d - -)
+        println(inc_num(b)*a+c*dec_num(d))
+        //println(a++)
+        println(inc_num(a))
+        //println (–2 * ( g – k ) +c)
+        println(-2*(-k)+c)
+        //println (c=c++)
+        println(inc_num(c))
+        //println (c=++c*a++)
+        println(inc_num(c)*inc_num(a))
     }
     def main(args: Array[String]): Unit ={
         function_elv()
