@@ -86,7 +86,7 @@ object student_record {
     var continue = true
     while (continue) {
       println("Options:\n1. Enter student information\n2. Display all student records\n3. Quit")
-      val input = readLine().trim
+      val input = readLine()
       input match {
         case "1" =>
           val std_info = get_std_info_with_entry()
