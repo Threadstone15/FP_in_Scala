@@ -1,4 +1,6 @@
 import scala.collection.mutable.ListBuffer
+import scala.io.StdIn.readLine
+import scala.io.StdIn.readInt
 
 object student_record {
 
@@ -11,11 +13,11 @@ object student_record {
 
   def get_std_info(): (String, Int, Int, Double, Char) = {
     println("Enter name:")
-    val name = scala.io.StdIn.readLine()
+    val name = readLine()
     println("Enter student marks:")
-    val marks = scala.io.StdIn.readInt()
+    val marks = readInt()
     println("Enter total possible marks:")
-    val total_marks = scala.io.StdIn.readInt()
+    val total_marks = readInt()
 
     val percentage = (marks.toDouble / total_marks.toDouble) * 100
     val grade = cal_grade(percentage)
@@ -84,7 +86,7 @@ object student_record {
     var continue = true
     while (continue) {
       println("Options:\n1. Enter student information\n2. Display all student records\n3. Quit")
-      val input = scala.io.StdIn.readLine().trim
+      val input = readLine().trim
       input match {
         case "1" =>
           val std_info = get_std_info_with_entry()

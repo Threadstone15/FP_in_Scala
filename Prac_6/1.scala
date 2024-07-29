@@ -1,4 +1,6 @@
 import scala.collection.mutable
+import scala.io.StdIn.readLine
+import scala.io.StdIn.readInt
 
 object inventory_store {
 
@@ -61,15 +63,15 @@ object inventory_store {
 
   def add_product(): Unit = {
     println("Enter the inventory number (1 or 2):")
-    val inventory_number = scala.io.StdIn.readInt()
+    val inventory_number = readInt()
     println("Enter product ID:")
-    val product_id = scala.io.StdIn.readInt()
+    val product_id = readInt()
     println("Enter product name:")
-    val name = scala.io.StdIn.readLine()
+    val name = readLine()
     println("Enter product quantity:")
-    val quantity = scala.io.StdIn.readInt()
+    val quantity = readInt()
     println("Enter product price:")
-    val price = scala.io.StdIn.readInt()
+    val price = readInt()
 
     if (inventory_number == 1) {
       inventory_1 = add_product_to_inventory(inventory_1, product_id, name, quantity, price)
@@ -94,23 +96,23 @@ object inventory_store {
       println("6 - Add a product to inventory")
       println("7 - Exit")
       println("Enter your choice:")
-      val choice = scala.io.StdIn.readInt()
+      val choice = readInt()
 
       choice match {
         case 1 =>
           println("Enter the inventory number (1 or 2):")
-          val inventory_number = scala.io.StdIn.readInt()
+          val inventory_number = readInt()
           val inventory_tmp = if (inventory_number == 1) inventory_1 else inventory_2
           println("Product names in inventory_1:")
           all_pro_names(inventory_tmp).foreach(println)
         case 2 =>
             println("Enter the inventory number (1 or 2):")
-          val inventory_number = scala.io.StdIn.readInt()
+          val inventory_number = readInt()
           val inventory_tmp = if (inventory_number == 1) inventory_1 else inventory_2
           println(s"Total value of all products in inventory_1: ${cal_tot_values(inventory_tmp)}")
         case 3 =>
           println("Enter the inventory number (1 or 2):")
-          val inventory_number = scala.io.StdIn.readInt()
+          val inventory_number = readInt()
           val inventory_tmp = if (inventory_number == 1) inventory_1 else inventory_2
           if (check_emt(inventory_tmp)) println("Inventory" + inventory_number + " is empty")
           else println("Inventory " + inventory_number + " is not empty")
@@ -122,9 +124,9 @@ object inventory_store {
           }
         case 5 =>
           println("Enter product ID to check:")
-          val product_id = scala.io.StdIn.readInt()
+          val product_id = readInt()
           println("Enter the inventory number (1 or 2):")
-          val inventory_number = scala.io.StdIn.readInt()
+          val inventory_number = readInt()
           if (inventory_number == 1) {
             check_exist(inventory_1, product_id)
           } else if (inventory_number == 2) {
