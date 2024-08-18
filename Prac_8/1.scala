@@ -19,15 +19,13 @@ object caesar_cipher {
     }
 
     def main(args: Array[String]): Unit = {
-        println("Enter a text to encrypt:")
+        println("Enter a text to dencrypt:")
         val text = readLine()
         println("Enter the shift value:")
         val shift = readLine().toInt
 
-        val encrypted = encrypt(text, shift)
-        println(s"Encrypted text: $encrypted")
 
-        val decrypted = decrypt(encrypted, shift)
+        val decrypted = decrypt(text, shift)
         println(s"Decrypted text: $decrypted")
     }
 }
